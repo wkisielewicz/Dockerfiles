@@ -1,5 +1,5 @@
 
-FROM kisiel/wine-osslsigncode
+FROM ubuntu
 MAINTAINER kisiel <kisielewicz777@gmail.com>
 
 
